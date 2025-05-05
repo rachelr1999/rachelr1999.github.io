@@ -1369,7 +1369,7 @@ button {
 		display: block;
 		position: absolute;
 		top: 0;
-		left: calc(50% - 5px);
+		left: calc(50% - 1px);
 		width: 1px;
 		height: 100%;
 		background: #ffffff;
