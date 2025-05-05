@@ -1367,7 +1367,7 @@ button {
 	#header nav.use-middle:after {
 		content: '';
 		display: block;
-		position: absolute;
+		position: center;
 		top: 0;
 		left: calc(50% - 1px);
 		width: 1px;
